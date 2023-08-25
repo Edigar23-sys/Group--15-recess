@@ -6,6 +6,7 @@
         <h1 style="color: aqua">Welcome</h1>
         <h1 style="color: aqua">Growing Together Through Savings.</h1>
     </div>
+//hello//
 </div>
 <div class="bg-secondary">
     @include('partials.footer')
