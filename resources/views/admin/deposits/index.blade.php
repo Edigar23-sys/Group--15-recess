@@ -11,7 +11,8 @@
             </div>
         </div>
         <div class="col-sm-12 col-md-4">
-        <div class="card p-2">
+        <div class="card p-2"> 
+          <!-- Total deposits -->
             <h1>Ugx {{$sum_deposit}} </h1>
             <p class="text-muted">Total Deposists</p>
         </div>

@@ -51,7 +51,7 @@
                 <legend class="w-auto">Set Interest Info</legend>
                 <div class="form-group">
                     <label for="loanProgress">Interest Rate</label>
-                    <input type="text" required class="form-control" name="interest" id="loanProgress" value="{{ $client->loan_progress_status }}" >
+                    <input type="text" required class="form-control" name="interest" id="loanProgress" value="18" >
                 </div>
                 <button class="btn btn-primary">Save</button>               
             </fieldset>
